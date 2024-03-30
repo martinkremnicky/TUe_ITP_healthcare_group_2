@@ -1,0 +1,100 @@
+id,p_id,p_id_seg,path,seg_frame,age,malignant/benign
+AMBL-001,p_001.nii.gz,p_001_ROI.nii.gz,Tumor Images/AMBL-001/,30-33,47.4,1
+AMBL-003,p_003.nii.gz,p_003_ROI.nii.gz,Tumor Images/AMBL-003/,60-59,53.3,1
+AMBL-004,p_004.nii.gz,p_004_ROI.nii.gz,Tumor Images/AMBL-004/,31-32,51.3,0
+AMBL-005,p_005.nii.gz,p_005_ROI.nii.gz,Tumor Images/AMBL-005/,52-56,75.3,1
+AMBL-007,p_007.nii.gz,p_007_ROI.nii.gz,Tumor Images/AMBL-007/,59-62,37.5,1
+AMBL-008,p_008.nii.gz,p_008_ROI.nii.gz,Tumor Images/AMBL-008/,44 and 50-57,52,1
+AMBL-009,p_009.nii.gz,p_009_ROI.nii.gz,Tumor Images/AMBL-009/,48,58.6,0
+AMBL-010,p_010.nii.gz,p_010_ROI.nii.gz,Tumor Images/AMBL-010/,58-54,49.3,0
+AMBL-011,p_011.nii.gz,p_011_ROI.nii.gz,Tumor Images/AMBL-011/,62-67 and 44,54.3,1
+AMBL-013,p_013.nii.gz,p_013_ROI.nii.gz,Tumor Images/AMBL-013/,62-67,43.6,0
+AMBL-016,p_016.nii.gz,p_016_ROI.nii.gz,Tumor Images/AMBL-016/,33 and 39-40,65.3,1
+AMBL-018,p_018.nii.gz,p_018_ROI.nii.gz,Tumor Images/AMBL-018/,21 and 58-60 and 68-75,64,1
+AMBL-022,p_022.nii.gz,p_022_ROI.nii.gz,Tumor Images/AMBL-022/,43-46,67.5,1
+AMBL-024,p_024.nii.gz,p_024_ROI.nii.gz,Tumor Images/AMBL-024/,29-36 and 55,40.3,0
+AMBL-025,p_025.nii.gz,p_025_ROI.nii.gz,Tumor Images/AMBL-025/,67-72,64.1,0
+AMBL-026,p_026.nii.gz,p_026_ROI.nii.gz,Tumor Images/AMBL-026/,37-36 and 40 and 65-68,40.8,0
+AMBL-028,p_028.nii.gz,p_028_ROI.nii.gz,Tumor Images/AMBL-028/,35,53.7,1
+AMBL-029,p_029.nii.gz,p_029_ROI.nii.gz,Tumor Images/AMBL-029/,28-38 and 53-54,52.2,1
+AMBL-031,p_031.nii.gz,p_031_ROI.nii.gz,Tumor Images/AMBL-031/,36,56.1,1
+AMBL-032,p_032.nii.gz,p_032_ROI.nii.gz,Tumor Images/AMBL-032/,38-42,45.4,1
+AMBL-033,p_033.nii.gz,p_033_ROI.nii.gz,Tumor Images/AMBL-033/,30-32,50.5,0
+AMBL-034,p_034.nii.gz,p_034_ROI.nii.gz,Tumor Images/AMBL-034/,36-37,75.3,0
+AMBL-035,p_035.nii.gz,p_035_ROI.nii.gz,Tumor Images/AMBL-035/,39-41,32.3,0
+AMBL-036,p_036.nii.gz,p_036_ROI.nii.gz,Tumor Images/AMBL-036/,38-40,25.8,1
+AMBL-038,p_038.nii.gz,p_038_ROI.nii.gz,Tumor Images/AMBL-038/,49 and 55-57,57.4,1
+AMBL-042,p_042.nii.gz,p_042_ROI.nii.gz,Tumor Images/AMBL-042/,45,55.4,0
+AMBL-043,p_043.nii.gz,p_043_ROI.nii.gz,Tumor Images/AMBL-043/,34-35,34.7,0
+AMBL-044,p_044.nii.gz,p_044_ROI.nii.gz,Tumor Images/AMBL-044/,64-61,50.5,0
+AMBL-045,p_045.nii.gz,p_045_ROI.nii.gz,Tumor Images/AMBL-045/,55-54,69.4,0
+AMBL-046,p_046.nii.gz,p_046_ROI.nii.gz,Tumor Images/AMBL-046/,43 and 39,44.7,0
+AMBL-047,p_047.nii.gz,p_047_ROI.nii.gz,Tumor Images/AMBL-047/,59 and 67,69.3,1
+AMBL-049,p_049.nii.gz,p_049_ROI.nii.gz,Tumor Images/AMBL-049/,65,43.8,1
+AMBL-050,p_050.nii.gz,p_050_ROI.nii.gz,Tumor Images/AMBL-050/,30 and 51,67.9,1
+AMBL-496,p_496.nii.gz,p_496_ROI.nii.gz,Tumor Images/AMBL-496/,37 and 57 (47),56.6,1
+AMBL-507,p_507.nii.gz,p_507_ROI.nii.gz,Tumor Images/AMBL-507/,34-35,62.7,1
+AMBL-514,p_514.nii.gz,p_514_ROI.nii.gz,Tumor Images/AMBL-514/,38,27.4,1
+AMBL-541,p_541.nii.gz,p_541_ROI.nii.gz,Tumor Images/AMBL-541/,68-74,44.7,1
+AMBL-557,p_557.nii.gz,p_557_ROI.nii.gz,Tumor Images/AMBL-557/,46-56,51.9,1
+AMBL-558,p_558.nii.gz,p_558_ROI.nii.gz,Tumor Images/AMBL-558/,65-67,,
+AMBL-559,p_559.nii.gz,p_559_ROI.nii.gz,Tumor Images/AMBL-559/,56-58,49.3,0
+AMBL-561,p_561.nii.gz,p_561_ROI.nii.gz,Tumor Images/AMBL-561/,59 and 51-48,45.2,0
+AMBL-562,p_562.nii.gz,p_562_ROI.nii.gz,Tumor Images/AMBL-562/,25-52 (pref. 38),49.3,1
+AMBL-563,p_563.nii.gz,p_563_ROI.nii.gz,Tumor Images/AMBL-563/,56 and 41 and 39,30.7,0
+AMBL-564,p_564.nii.gz,p_564_ROI.nii.gz,Tumor Images/AMBL-564/,53-50 and 62-60,68,1
+AMBL-565,p_565.nii.gz,p_565_ROI.nii.gz,Tumor Images/AMBL-565/,65 and 35-33,36.3,1
+AMBL-567,p_567.nii.gz,p_567_ROI.nii.gz,Tumor Images/AMBL-567/,56-63,50.4,1
+AMBL-568,p_568.nii.gz,p_568_ROI.nii.gz,Tumor Images/AMBL-568/,55-57,43.3,1
+AMBL-569,p_569.nii.gz,p_569_ROI.nii.gz,Tumor Images/AMBL-569/,46-45 and 38-23 (pref. 28),66.4,1
+AMBL-570,p_570.nii.gz,p_570_ROI.nii.gz,Tumor Images/AMBL-570/,45-42 and 55-58,53.1,1
+AMBL-571,p_571.nii.gz,p_571_ROI.nii.gz,Tumor Images/AMBL-571/,56-64,40.9,1
+AMBL-572,p_572.nii.gz,p_572_ROI.nii.gz,Tumor Images/AMBL-572/,27-32 and 43 and 45 and 49 and 50-52,62,1
+AMBL-573,p_573.nii.gz,p_573_ROI.nii.gz,Tumor Images/AMBL-573/,49-50,46.2,0
+AMBL-574,p_574.nii.gz,p_574_ROI.nii.gz,Tumor Images/AMBL-574/,56-61 and 31-33 and 35-36,35.8,1
+AMBL-575,p_575.nii.gz,p_575_ROI.nii.gz,Tumor Images/AMBL-575/,48-50 and 40-60,47.3,1
+AMBL-577,p_577.nii.gz,p_577_ROI.nii.gz,Tumor Images/AMBL-577/,24-27,71.1,1
+AMBL-578,p_578.nii.gz,p_578_ROI.nii.gz,Tumor Images/AMBL-578/,55-64 and 39,42.9,1
+AMBL-579,p_579.nii.gz,p_579_ROI.nii.gz,Tumor Images/AMBL-579/,33-43,44.8,1
+AMBL-580,p_580.nii.gz,p_580_ROI.nii.gz,Tumor Images/AMBL-580/,44-62,58.2,1
+AMBL-581,p_581.nii.gz,p_581_ROI.nii.gz,Tumor Images/AMBL-581/,46-52,62,1
+AMBL-582,p_582.nii.gz,p_582_ROI.nii.gz,Tumor Images/AMBL-582/,44-51,50.8,1
+AMBL-583,p_583.nii.gz,p_583_ROI.nii.gz,Tumor Images/AMBL-583/,35-37 and 43-55,68.4,1
+AMBL-584,p_584.nii.gz,p_584_ROI.nii.gz,Tumor Images/AMBL-584/,66-69,47.8,1
+AMBL-585,p_585.nii.gz,p_585_ROI.nii.gz,Tumor Images/AMBL-585/,43-48 and 58-53,42.3,1
+AMBL-586,p_586.nii.gz,p_586_ROI.nii.gz,Tumor Images/AMBL-586/,52-57,64.2,1
+AMBL-587,p_587.nii.gz,p_587_ROI.nii.gz,Tumor Images/AMBL-587/,40 and 58-62,33.6,1
+AMBL-588,p_588.nii.gz,p_588_ROI.nii.gz,Tumor Images/AMBL-588/,84-89,55.5,0
+AMBL-590,p_590.nii.gz,p_590_ROI.nii.gz,Tumor Images/AMBL-590/,46 and 51-53 and 62 and 71-78,43.6,1
+AMBL-591,p_591.nii.gz,p_591_ROI.nii.gz,Tumor Images/AMBL-591/,65-70,49.2,1
+AMBL-593,p_593.nii.gz,p_593_ROI.nii.gz,Tumor Images/AMBL-593/,77-80,72.4,1
+AMBL-594,p_594.nii.gz,p_594_ROI.nii.gz,Tumor Images/AMBL-594/,53-63 and 68-75,45.3,1
+AMBL-595,p_595.nii.gz,p_595_ROI.nii.gz,Tumor Images/AMBL-595/,62 and 32,54.1,0
+AMBL-596,p_596.nii.gz,p_596_ROI.nii.gz,Tumor Images/AMBL-596/,28-40,51.7,1
+AMBL-597,p_597.nii.gz,p_597_ROI.nii.gz,Tumor Images/AMBL-597/,33-44,80.2,1
+AMBL-598,p_598.nii.gz,p_598_ROI.nii.gz,Tumor Images/AMBL-598/,35-38,40.6,1
+AMBL-599,p_599.nii.gz,p_599_ROI.nii.gz,Tumor Images/AMBL-599/,40-44 and 47,57.5,1
+AMBL-600,p_600.nii.gz,p_600_ROI.nii.gz,Tumor Images/AMBL-600/,25 and 44-46 and 50-55,44.5,0
+AMBL-603,p_603.nii.gz,p_603_ROI.nii.gz,Tumor Images/AMBL-603/,64 and 52-54,29.8,1
+AMBL-604,p_604.nii.gz,p_604_ROI.nii.gz,Tumor Images/AMBL-604/,56-46,48.4,1
+AMBL-605,p_605.nii.gz,p_605_ROI.nii.gz,Tumor Images/AMBL-605/,42-47,46.9,1
+AMBL-606,p_606.nii.gz,p_606_ROI.nii.gz,Tumor Images/AMBL-606/,41 and 61,47.3,0
+AMBL-607,p_607.nii.gz,p_607_ROI.nii.gz,Tumor Images/AMBL-607/,26-30,52.6,1
+AMBL-608,p_608.nii.gz,p_608_ROI.nii.gz,Tumor Images/AMBL-608/,57,52.2,1
+AMBL-610,p_610.nii.gz,p_610_ROI.nii.gz,Tumor Images/AMBL-610/,73-74 and 35-38 and 40-43,54,1
+AMBL-612,p_612.nii.gz,p_612_ROI.nii.gz,Tumor Images/AMBL-612/,55,71.1,1
+AMBL-613,p_613.nii.gz,p_613_ROI.nii.gz,Tumor Images/AMBL-613/,56-62,45.6,1
+AMBL-615,p_615.nii.gz,p_615_ROI.nii.gz,Tumor Images/AMBL-615/,29-31,48.7,0
+AMBL-618,p_618.nii.gz,p_618_ROI.nii.gz,Tumor Images/AMBL-618/,53-54,46.1,1
+AMBL-619,p_619.nii.gz,p_619_ROI.nii.gz,Tumor Images/AMBL-619/,36-44,43.7,1
+AMBL-620,p_620.nii.gz,p_620_ROI.nii.gz,Tumor Images/AMBL-620/,47 and 54,56.2,0
+AMBL-621,p_621.nii.gz,p_621_ROI.nii.gz,Tumor Images/AMBL-621/,62-66 and 58-61,30,1
+AMBL-622,p_622.nii.gz,p_622_ROI.nii.gz,Tumor Images/AMBL-622/,59-60,45.9,1
+AMBL-623,p_623.nii.gz,p_623_ROI.nii.gz,Tumor Images/AMBL-623/,92-103,64.6,1
+AMBL-625,p_625.nii.gz,p_625_ROI.nii.gz,Tumor Images/AMBL-625/,54-60,82.1,1
+AMBL-626,p_626.nii.gz,p_626_ROI.nii.gz,Tumor Images/AMBL-626/,62 and 66,33.1,0
+AMBL-627,p_627.nii.gz,p_627_ROI.nii.gz,Tumor Images/AMBL-627/,28-31 and 35-37 and 72-73,50,1
+AMBL-628,p_628.nii.gz,p_628_ROI.nii.gz,Tumor Images/AMBL-628/,58-60,64,1
+AMBL-629,p_629.nii.gz,p_629_ROI.nii.gz,Tumor Images/AMBL-629/,60 and 55 and 45-46 and 56 and 59-60,32.4,0
+AMBL-631,p_631.nii.gz,p_631_ROI.nii.gz,Tumor Images/AMBL-631/,58 and (68 or 74),50.4,1
+AMBL-632,p_632.nii.gz,p_632_ROI.nii.gz,Tumor Images/AMBL-632/,50-53,57,1
