@@ -4,14 +4,13 @@ import matplotlib.pyplot as plt
 import os
 import scipy.ndimage as ndi
 
-directory = '/Users/christosmichalopoulos/Desktop/5ARIP_Images'
-output_folder = '/Users/christosmichalopoulos/Desktop/5ARIP_Images_R'
+directory = 'C:\Users\hilde\Documents\Technische Universiteit Eindhoven\Int. Team Project\TUe_ITP_healthcare_group_2\data_augmentation\image_files'
+#output_folder = '/Users/christosmichalopoulos/Desktop/5ARIP_Images_R'
 loaded_items = []
 
 # Iterate over all folders in the directory
 for folder_name in sorted(os.listdir(directory)):
     folder_path = os.path.join(directory, folder_name)
-    
     # Check if the current item is a folder
     if os.path.isdir(folder_path):        
         print("Folder:", folder_name)
