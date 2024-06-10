@@ -6,6 +6,9 @@ This project aims to develop a machine learning algorithm capable of predicting 
 
 Due to the lack of publicly available MRI data of breast scans during respiration, we implemented data augmentation and synthesis techniques to create realistic motion patterns.
 
+# Model Overview 
+
+
 # Dataset 
 The original dataset utilized for this project is available at https://www.cancerimagingarchive.net/collection/advanced-mri-breast-lesions/, which includes segmentation masks for accurate modeling.
 Besides the original data samples that we collected, we created the sequences that include the segmentation masks after being augmented. Each sequence included 20 frames. 
@@ -31,10 +34,11 @@ However, due to the limited amount of available data, our model currently strugg
   ```bash
     git clone https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2.git
 - Augment the data:
-  - Run cells in data data_augmentation.ipynb. Data should be in .nib format.
+  - Run cells in data 2D_augmentation.ipynb. Data should be in .nib format.
 - ConvLSTM:
   - Run cells in model.ipynb. Data should be in .npy format.
-    
+
+# Results
 
 
 # Contributors 
