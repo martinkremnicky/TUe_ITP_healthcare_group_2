@@ -7,6 +7,7 @@ This project aims to develop a machine learning algorithm capable of predicting 
 Due to the lack of publicly available MRI data of breast scans during respiration, we implemented data augmentation and synthesis techniques to create realistic motion patterns.
 
 # Model Overview 
+![conv_lstm](https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2/assets/144246239/a41a6f4a-478f-4948-828c-8a0c34aa9b3b)
 
 
 # Dataset 
@@ -39,7 +40,9 @@ However, due to the limited amount of available data, our model currently strugg
   - Run cells in model.ipynb. Data should be in .npy format.
 
 # Results
-![Preview](https://raw.githubusercontent.com/martinkremincky/TUe_ITP_healthcare_group_2/model/results.png)
+
+<img width="985" alt="results" src="https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2/assets/144246239/f2b2a6fc-ccbf-41b6-98a9-1beeb3371ca7">
+
 
 # Contributors 
 - Teresa Hernandez Sabroso (https://github.com/thernansab04)
