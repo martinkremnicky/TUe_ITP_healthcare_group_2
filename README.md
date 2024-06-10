@@ -30,6 +30,11 @@ However, due to the limited amount of available data, our model currently strugg
 - Clone Repository:
   ```bash
     git clone https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2.git
+- Augment the data:
+  - Run cells in data data_augmentation.ipynb. Data should be in .nib format.
+- ConvLSTM:
+  - Run cells in model.ipynb. Data should be in .npy format.
+    
 
 
 # Contributors 
