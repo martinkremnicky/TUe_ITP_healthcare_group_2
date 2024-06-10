@@ -28,6 +28,7 @@ Our model is based on Convolutional Long Short-Term Memory (ConvLSTM) networks, 
 For our project, we use live MRI images as inputs. To predict tumor motion accurately, it is essential to first segment the tumors. We employ a U-Net architecture for segmentation, using DICE loss as the evaluation metric.
 
 However, due to the limited amount of available data, our model currently struggles to accurately segment the tumors. In future work, we plan to gather more MRI images and fine-tune the model to improve its accuracy. 
+
 Note: The trained model is too large to store on Github. If needed please contact the authors. 
 
 # Instructions
