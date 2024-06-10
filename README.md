@@ -35,7 +35,7 @@ However, due to the limited amount of available data, our model currently strugg
   ```bash
     git clone https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2.git
 - Augment the data:
-  - Run cells in data 2D_augmentation.ipynb. Data should be in .nib format.
+  - Run cells in data 2D_augmentation.ipynb. Data should be in .png format.
 - ConvLSTM:
   - Run cells in model.ipynb. Data should be in .npy format.
 
