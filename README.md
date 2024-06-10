@@ -39,7 +39,7 @@ However, due to the limited amount of available data, our model currently strugg
   - Run cells in model.ipynb. Data should be in .npy format.
 
 # Results
-
+![Preview](https://raw.githubusercontent.com/martinkremincky/TUe_ITP_healthcare_group_2/model/results.png)
 
 # Contributors 
 - Teresa Hernandez Sabroso (https://github.com/thernansab04)
