@@ -28,7 +28,8 @@ However, due to the limited amount of available data, our model currently strugg
 # Instructions
 
 - Clone Repository:
-  ''' git clone https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2.git
+  ```bash
+    git clone https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2.git
 
 
 # Contributors 
