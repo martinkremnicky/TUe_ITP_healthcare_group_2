@@ -24,7 +24,7 @@ Our model is based on Convolutional Long Short-Term Memory (ConvLSTM) networks, 
   - Batch Normalization: Stabilize and accelerate training.
   - Dropout: Prevent overfitting.
 
-# Segmentation 
+# Segmentation (optional)
 For our project, we use live MRI images as inputs. To predict tumor motion accurately, it is essential to first segment the tumors. We employ a U-Net architecture for segmentation, using DICE loss as the evaluation metric.
 
 However, due to the limited amount of available data, our model currently struggles to accurately segment the tumors. In future work, we plan to gather more MRI images and fine-tune the model to improve its accuracy.
