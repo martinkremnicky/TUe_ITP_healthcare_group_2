@@ -4,7 +4,7 @@ Interdisciplinary Team Project, June 2024, TU/e
 # Project Overview
 This project aims to develop a machine learning algorithm capable of predicting the position of a breast tumor during radiotherapy sessions, accounting for movement due to human respiration. We have introduced a novel approach using Convolutional LSTM (ConvLSTM) models to predict the next frame in a sequence representing this motion. ConvLSTMs have been proven very successful in next frame prediction as they incorporate the spatial processing of Convolutional Neural Networks (CNNs) and the temporal processing abilities of LSTMs. 
 
-Due to the lack of publicly available MRI data of breast scans during respiration, we implemented data augmentation and synthesis techniques to create realistic motion patterns.
+Due to the lack of publicly available MRI data of breast scans during respiration, we implemented data augmentation and synthesis techniques to simulate motion patterns.
 
 # Model Overview 
 ![conv_lstm](https://github.com/martinkremnicky/TUe_ITP_healthcare_group_2/assets/144246239/a41a6f4a-478f-4948-828c-8a0c34aa9b3b)
